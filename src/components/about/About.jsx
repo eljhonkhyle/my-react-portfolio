@@ -17,7 +17,7 @@ const About = () => {
         <div className="about__data">
             <Info />
 
-            <p className="about__description">Aspiring frontend developer, Currently studying right now at Christ The King College de Maranding Inc. I create web pages with UI / UX user interface. I really love to code.</p>
+            <p className="about__description">Aspiring frontend developer, Currently studying right now at Christ The King College de Maranding Inc. I create web pages with UI / UX user interface. And I really love to code.</p>
             <a download="" href={CV} className="button button--flex">Download CV
             <svg
                 class="button__icon"
