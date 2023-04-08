@@ -28,7 +28,7 @@ const Footer = () => {
         </a>
 
         <a href="https://www.instagram.com/eljhonkhylee/" className="footer__social-link" target="_blank">
-        <i className="bx bxl-instagram"></i>
+        <i className="bx bxl-instagram-alt"></i>
         </a>
 
         <a href="https://www.twitter.com/EljhonKhyle/" className="footer__social-link" target="_blank">
@@ -36,7 +36,7 @@ const Footer = () => {
         </a>
             </div>
 
-            <span className="footer__copy">&#169; 2023 EljhonKhyle. All rights reserved</span>
+            <span className="footer__copy">&#169; 2023 Eljhon Khyle Balderama | All Rights Reserved.</span>
         </div>
     </footer>
   )

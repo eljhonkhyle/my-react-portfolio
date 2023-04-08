@@ -17,7 +17,7 @@
     margin-bottom: var(--mb-2);
 }
 
-footer__link:hover {
+.footer__link:hover {
     color: var(--title-color-dark);
 }
 
@@ -35,16 +35,15 @@ footer__link:hover {
 }
 
 .footer__social-link {
-    background-color: var(--title-color);
-    color: var(--container-color);
-    font-size: 1.125rem;
+    color: var(--title-color);
+    font-size: 1.25rem;
     padding: 0.4rem;
     border-radius: 0.5rem;
     display: inline-flex;
 }
 
 .footer__social-link:hover {
-    background-color: var(--title-color-dark);
+    color: #408697;
 }
 
 .footer__copy {
