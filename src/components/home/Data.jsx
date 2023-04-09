@@ -3,7 +3,7 @@ import React from 'react'
 const Data = () => {
   return (
     <div className="home__data">
-        <h1 className="home__title">Eljhon Khyle Balderama
+        <h1 className="home__title">Hi, I'm Eljhon
         </h1>
         <h3 className="home__subtitle">Aspiring Frontend Developer</h3>
         <p className="home__description">I work as a creative designer in Poblacion Baroy, Lanao del Norte, and I'm Incredibly passionate and committed to my profession.</p>
