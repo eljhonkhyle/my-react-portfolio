@@ -29,11 +29,17 @@
     margin-bottom: var(--mb-0-25);
 }
 
-.home__title,
-.home__subtitle,
-.home__description {
+.home__title {
+    display: block; opacity: 0;
+    animation: reveal .5s forwards;
+}
+.home__subtitle {
     display: block; opacity: 0;
     animation: reveal 1s forwards;
+}
+.home__description {
+    display: block; opacity: 0;
+    animation: reveal 1.5s forwards;
 }
 
 @keyframes reveal {
