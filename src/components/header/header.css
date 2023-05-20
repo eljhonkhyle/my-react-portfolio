@@ -15,10 +15,14 @@
     column-gap: 1rem;
 }
 
-.nav__logo,
+.nav__logo{
+    width: 20%;
+    filter: invert(50%) sepia(7%) saturate(3061%) hue-rotate(145deg) brightness(91%) contrast(82%);
+}
 .nav__toggle {
     color: var(--title-color);
     font-weight: var(--font-medium);
+    
 }
 
 .nav__list {
