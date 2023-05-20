@@ -34,6 +34,10 @@ const Footer = () => {
         <a href="https://www.twitter.com/EljhonKhyle/" className="footer__social-link" target="_blank">
         <i className="bx bxl-twitter"></i>
         </a>
+
+        <a href="https://www.linkedin.com/in/eljhon-khyle-balderama-9ab27125b/" className="footer__social-link" target="_blank">
+        <i class='bx bxl-linkedin-square'></i>
+        </a>
             </div>
 
             <span className="footer__copy">&#169; 2023 Eljhon Khyle Balderama | All Rights Reserved.</span>
