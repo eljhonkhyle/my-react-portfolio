@@ -6,7 +6,7 @@ const Data = () => {
         <h1 className="home__title">Hi, I'm Eljhon
         </h1>
         <h3 className="home__subtitle">Aspiring Frontend Developer</h3>
-        <p className="home__description">I work as a creative designer in Poblacion Baroy, Lanao del Norte, and I'm Incredibly passionate and committed to my profession.</p>
+        <p className="home__description">I'm a passionate creative designer based in Poblacion Baroy, Lanao del Norte. Committed to my craft, I strive to deliver visually impactful designs, constantly exploring new ideas and staying up-to-date with industry trends. I take pride in pushing creative boundaries and bringing innovative solutions to the forefront of design.</p>
 
         <a href="#contact" className="button button--flex">
             Say Hello
