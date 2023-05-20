@@ -14,7 +14,7 @@ const App = () => {
   return (
     <>
     <Header/>
-    <Darkmode/>
+    
 
   <main className="main">
     <Home />
