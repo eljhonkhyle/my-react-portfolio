@@ -3,8 +3,8 @@ import React from 'react'
 const Data = () => {
   return (
     <div className="home__data">
-        <h1 className="home__title">Hi, I'm Eljhon
-        </h1>
+        <h1 className="home__title">Hi, I'm Eljhon</h1>
+        
         <h3 className="home__subtitle">Frontend Developer</h3>
         <p className="home__description">Passionate creative designer in Poblacion Baroy, Lanao del Norte, pushing boundaries with visually impactful designs and innovative solutions. Stay up-to-date with industry trends.</p>
 
