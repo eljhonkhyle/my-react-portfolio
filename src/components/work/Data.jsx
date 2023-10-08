@@ -3,17 +3,19 @@ import Work2 from "../../assets/work2.jpg"
 
 export const projectsData  = [
     {
-        id: 1,
+        id: 'project1',
         image: Work1,
         title: 'Portfolio',
         category: 'web',
+        link: 'https://ekb.netlify.app/'
     },
 
     {
-        id: 2,
+        id: 'project2',
         image: Work2,
         title: 'Weather Hub',
         category: 'web',
+        link: 'https://weatherhuub.netlify.app/'
         
     },
 ];
