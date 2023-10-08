@@ -6,16 +6,20 @@ export const projectsData  = [
         id: 'project1',
         image: Work1,
         title: 'Portfolio',
+        description: '',
         category: 'web',
-        link: 'https://ekb.netlify.app/'
+        link: 'https://ekb.netlify.app/',
+        github: 'https://github.com/eljhonkhyle/my-react-portfolio'
     },
 
     {
         id: 'project2',
         image: Work2,
         title: 'Weather Hub',
+        description: 'A weather site to provide users with up-to-date and location-specific information about current weather conditions and forecasts. ',
         category: 'web',
-        link: 'https://weatherhuub.netlify.app/'
+        link: 'https://weatherhuub.netlify.app/',
+        github: 'https://github.com/eljhonkhyle/weather-app'
         
     },
 ];
