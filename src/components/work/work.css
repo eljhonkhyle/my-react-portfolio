@@ -47,8 +47,9 @@
 .work__description {
     font-size: 13px;
     display: flex;
-    margin-top: 5px;
+    margin-top: 10px;
     max-width: 400px;
+    color: var(--text-color);
 }
 
 .work__button {
@@ -57,7 +58,7 @@
     display: flex;
     align-items: center;
     column-gap: 0.25rem;
-    margin-bottom: 1rem;
+    margin-top: 1rem;
     
 }
 

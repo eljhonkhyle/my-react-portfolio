@@ -6,7 +6,7 @@ export const projectsData  = [
         id: 'project1',
         image: Work1,
         title: 'Portfolio',
-        description: '',
+        description: 'Explore the creative world of me through this carefully crafted online portfolio. This website is a curated showcase of my diverse talents, skills, and accomplishments.',
         category: 'web',
         link: 'https://ekb.netlify.app/',
         github: 'https://github.com/eljhonkhyle/my-react-portfolio'
