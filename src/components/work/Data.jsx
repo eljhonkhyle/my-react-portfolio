@@ -1,5 +1,6 @@
 import Work1 from "../../assets/work1.jpg"
 import Work2 from "../../assets/work2.jpg"
+import Work3 from "../../assets/work3.jpg"
 
 export const projectsData  = [
     {
@@ -20,6 +21,17 @@ export const projectsData  = [
         category: 'web',
         link: 'https://weatherhuub.netlify.app/',
         github: 'https://github.com/eljhonkhyle/weather-app'
+        
+    },
+
+    {
+        id: 'project3',
+        image: Work3,
+        title: 'Task X Pro',
+        description: 'A todo site to help users organize, prioritize, and manage their daily tasks and responsibilities. It offers a user-friendly interface for creating, tracking, and completing tasks efficiently.',
+        category: 'web',
+        link: 'https://taskxpro.vercel.app',
+        github: 'https://github.com/eljhonkhyle/todo-list'
         
     },
 ];
