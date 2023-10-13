@@ -28,7 +28,7 @@ export const projectsData  = [
         id: 'project3',
         image: Work3,
         title: 'Task X Pro',
-        description: 'A todo site to help users organize, prioritize, and manage their daily tasks and responsibilities. It offers a user-friendly interface for creating, tracking, and completing tasks efficiently.',
+        description: 'A todo site to help you organize, prioritize, and manage your daily tasks and responsibilities. It offers a user-friendly interface for creating, tracking, and completing tasks efficiently.',
         category: 'web',
         link: 'https://taskxpro.vercel.app',
         github: 'https://github.com/eljhonkhyle/todo-list'
