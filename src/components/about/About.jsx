@@ -17,7 +17,7 @@ const About = () => {
         <div className="about__data">
             <Info />
 
-            <p className="about__description">I am currently studying at Christ The King College de Maranding, Inc. I'm passionate about coding and creating captivating UI/UX designs. I find joy in crafting digital experiences that are not only visually appealing but also intuitive and user-friendly. When I'm not immersed in the world of technology, you can find me in the kitchen, indulging in my love for cooking and savoring the delicious meals I create. Exploring new flavors and experimenting with ingredients is a delightful adventure for me. Apart from my culinary escapades, I have an insatiable curiosity that drives me to explore various realms, whether it's traveling to unfamiliar places, diving into new hobbies, or staying up-to-date with emerging trends. Embracing the unknown and expanding my horizons is something I always look forward to.</p>
+            <p className="about__description">I'm currently studying Computer Science at Christ The King College de Maranding, Inc. My passion lies in coding and creating captivating UI/UX designs, where I aim to craft visually appealing and user-friendly digital experiences. When I'm not immersed in technology, I love cooking and experimenting with flavors in the kitchen. I also have an insatiable curiosity that drives me to explore new realms, whether through travel, new hobbies, or staying up-to-date with emerging trends. Expanding my horizons is something I always look forward to.</p>
             <a download="" href={CV} className="button button--flex">Download CV
             <svg
                 class="button__icon"
