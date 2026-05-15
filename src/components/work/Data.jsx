@@ -2,6 +2,7 @@ import Work1 from "../../assets/work1.jpg";
 import Work2 from "../../assets/work2.jpg";
 import Work3 from "../../assets/work3.jpg";
 import Work4 from "../../assets/work4.png";
+import Work5 from "../../assets/work5.png";
 
 export const projectsData = [
   {
@@ -46,6 +47,17 @@ export const projectsData = [
     category: "web",
     link: "https://havocproperties.vercel.app",
     github: "https://github.com/eljhonkhyle/landing-page",
+  },
+
+  {
+    id: "project5",
+    image: Work5,
+    title: "Deer Designer",
+    description:
+      "A user-focused law firm site built on Next.js, designed to provide immediate clarity and accessibility. It features a clean, responsive architecture and high-impact visuals, creating a trustworthy environment that guides users seamlessly from inquiry to consultation.",
+    category: "web",
+    link: "https://deerdesignertest.vercel.app",
+    github: "https://github.com/eljhonkhyle/deer-designer-test",
   },
 ];
 
